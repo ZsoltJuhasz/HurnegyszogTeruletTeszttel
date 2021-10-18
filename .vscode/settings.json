@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src","test"],  //ide kell írni a testet vesszővel az src után
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Diak\\Library\\junit\\junit-jupiter-api-5.8.1.jar",
+        "c:\\Users\\Diak\\Library\\junit\\junit-platform-console-standalone-1.8.1.jar"
+    ]
+}
